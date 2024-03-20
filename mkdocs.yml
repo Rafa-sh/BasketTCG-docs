@@ -4,13 +4,25 @@ theme:
   language: es
   logo: assets/logo.png
   favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
   features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.footer
     - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
+    - search.share
+    - content.action.edit
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
@@ -19,13 +31,34 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Cambiar a modo oscuro
-      primary: custom
-      accent: custom
+      # Puedes cambiar a "custom" para poner colores de assets/extra.css
+      primary: deep orange
+      # Puedes cambiar a "custom" para poner colores de assets/extra.css
+      accent: teal
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Cambiar a modo claro
-      primary: custom
-      accent: custom
+      # Puedes cambiar a "custom" para poner colores de assets/extra.css
+      primary: deep orange
+      # Puedes cambiar a "custom" para poner colores de assets/extra.css
+      accent: teal
+repo_url: https://github.com/Fcojavier9/BasketTCG
+repo_name: Fcojavier9/BasketTCG
+edit_uri: edit/develop/docs/
+nav:
+  - Tutoriales: 'Tutoriales'
+  - Guias: 'Guias'
+  - Explicaciones: 'Explicaciones'
+  - Referencia: 'Referencia'
+plugins:
+  - search
+  - include_dir_to_nav
+
 extra_css:
   - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Fcojavier9/BasketTCG
+copyright: "Creaive Commons Attribution License 4.0 International"
