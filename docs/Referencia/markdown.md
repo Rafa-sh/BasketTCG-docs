@@ -303,14 +303,14 @@ Por último, en caso de ser una imagen, ponemos una exclamación al principio
 #### Manipular imágenes
 Para manipular una imagen, podemos usar html básico. Por desgracia markdown solo sopota manipualr imágenes de esta forma.
 ```html
-<img src="/assets/logo.png" style="
+<img src="https://rafa-sh.github.io/BasketTCG-docs/assets/logo.png" style="
     width: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 ">
 ```
-<img src="/assets/logo.png" style="
+<img src="https://rafa-sh.github.io/BasketTCG-docs/assets/logo.png" style="
     width: 200px;
     display: block;
     margin-left: auto;
