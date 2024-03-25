@@ -5,11 +5,30 @@ icon: fontawesome/brands/markdown
 
 ## Metadatos
 
+Al principio del archivo markdown,
+hay una cabecera con metadatos, en esta documentación se usan principalmente title, para el título, e icon, para el icono  
+
+Por ejemplo, aquí el inicio de esta página en markdown
+```md
+---
+title: Markdown
+icon: fontawesome/brands/markdown
+---
+
+## Metadatos
+
+Al principio del archivo markdownm
+```
+
 ### title
 title contiene el título de la página.
-
+```md
+---
+title: Markdown
+---
+```
 ### icon
-icon contiene el icono dela página.
+icon contiene el icono de la página.
 
 Puedes buscar los iconos [aquí](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search)
 
