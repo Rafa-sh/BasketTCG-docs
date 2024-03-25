@@ -1,5 +1,6 @@
 ---
 title: Scripts SQL
+icon: material/database-import
 ---
 *Todos los scripts del proyecto estan preparados para PostgreSQL*
 
