@@ -1,4 +1,5 @@
-![BasketTCG](/docs/assets/logo.png)
+<img src="/docs/assets/logo.png" width="200" />
+
 
 # BasketTCG-docs
 > Documentación del proyecto [BasketTCG](https://github.com/Fcojavier9/BasketTCG), un TFG
