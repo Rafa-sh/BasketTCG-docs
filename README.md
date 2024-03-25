@@ -69,7 +69,7 @@ Puedes encontrar sobre la configuración de mkdocs base [aquí](https://www.mkdo
 
 ## Links
 
-- Repositori de BasketTCG: https://github.com/Fcojavier9/BasketTCG
+- Repositorio de BasketTCG: https://github.com/Fcojavier9/BasketTCG
 
 - Página de la documentación: https://rafa-sh.github.io/BasketTCG-docs/Referencia/api/
 
