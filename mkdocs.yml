@@ -45,7 +45,7 @@ theme:
       accent: teal
 repo_url: https://github.com/Fcojavier9/BasketTCG
 repo_name: Fcojavier9/BasketTCG
-edit_uri: edit/develop/docs/
+edit_uri: edit/main/docs/
 nav:
   - Tutoriales: 'Tutoriales'
   - Guias: 'Guias'
@@ -61,4 +61,3 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Fcojavier9/BasketTCG
-copyright: "Creaive Commons Attribution License 4.0 International"
