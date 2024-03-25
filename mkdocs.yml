@@ -43,8 +43,8 @@ theme:
       primary: deep orange
       # Puedes cambiar a "custom" para poner colores de assets/extra.css
       accent: teal
-repo_url: https://github.com/Fcojavier9/BasketTCG
-repo_name: Fcojavier9/BasketTCG
+repo_url: https://github.com/Rafa-sh/BasketTCG-docs
+repo_name: Rafa-sh/BasketTCG-docs
 edit_uri: edit/main/docs/
 nav:
   - Tutoriales: 'Tutoriales'
