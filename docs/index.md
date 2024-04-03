@@ -2,4 +2,5 @@
 title: BasketTCG
 ---
 
-texto WIP
+Esta es la documentación del proyecto BasketTCG.  
+  
