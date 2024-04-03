@@ -67,9 +67,9 @@ Puedes usar `Ctrl-C` para detener los contenedores, al volver a poner los conten
 ### Backend (Laravel)
 El Dockerfile del backend viene preparado con XDebug. Debes decirle a tu IDE que use el puerto 9003, y configurar las rutas relativas que hay dentro del contenedor.  
 En `/scripts/launch-backend.json.example` Se envuentra un json de ejemplo para ejecutar XDebug con vscode.  
-
-Sigue estos pasos para usar el debugger en VSCode:
-1. Instala `xdebug.php-debug` en VSCode
-2. Pon una copia de `/scripts/launch-backend.json.example` en `/.vscode/launch.json`. O adapta el código de tu `/.vscode/launch.json` como veas conveniente.
-3. Una vez se encuentre el contenedor `baskettcg-backend-1` en pie, en VSCode usa "Run and debug", esuchando a XDebug
-4. Pon breakpoints donde veas conveniente, cuando se ejecute el código, funcionará el debugger como esperas.
+  
+Sigue estos pasos para usar el debugger en VSCode:  
+1. Instala `xdebug.php-debug` en VSCode  
+2. Pon una copia de `/scripts/launch-backend.json.example` en `/.vscode/launch.json`. O adapta el código de tu `/.vscode/launch.json` como veas conveniente.  
+3. Una vez se encuentre el contenedor `baskettcg-backend-1` en pie, en VSCode usa "Run and debug", esuchando a XDebug  
+4. Pon breakpoints donde veas conveniente, cuando se ejecute el código, funcionará el debugger como esperas.  
