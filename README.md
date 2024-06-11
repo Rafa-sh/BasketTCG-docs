@@ -1,5 +1,5 @@
 <img src="/docs/assets/logo.png" width="200" />
-
+[<img src="https://rafa-sh.github.io/BasketTCG-docs/assets/images/social/index.png">](https://rafa-sh.github.io/BasketTCG-docs/)
 
 # BasketTCG-docs
 > Documentación del proyecto [BasketTCG](https://github.com/Fcojavier9/BasketTCG), un TFG
